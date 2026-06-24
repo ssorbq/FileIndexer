@@ -20,7 +20,7 @@
   java FileIndexer D:\Source D:\Backup
   ```
 
-##Пример работы:
+## Пример работы:
 ```
 PS D:\Project> java FileIndexer D:\Test
 Сканируем папку: D:\Test
