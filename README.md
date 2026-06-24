@@ -17,7 +17,7 @@
    ```
   Сравнение папки-источника и папки-резерва:
   ```bash
-   java FileIndexer D:\Source D:\Backup
+  java FileIndexer D:\Source D:\Backup
   ```
 
 ##Пример работы:
